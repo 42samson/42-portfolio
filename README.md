@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Web development
 
 You can use the [editor on GitHub](https://github.com/42samson/42-portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
